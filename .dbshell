@@ -1,0 +1,2 @@
+use mydatabase
+db.documents.insertMany([ { name: "Document 1", content: "Content of Document 1" },  { name: "Document 2", content: "Content of Document 2" },  { name: "Document 3", content: "Content of Document 3" } ])
